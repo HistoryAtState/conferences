@@ -128,10 +128,26 @@
                 <head>Opening Remarks at the Office of the Historian's Conference on U.S.-Soviet
                     Relations in the Era of Détente, 1969-1976, Secretary Condoleezza Rice, East
                     Auditorium Washington, DC, October 22, 2007</head>
-                <p>View Video</p>
                 <p>Secretary Rice makes opening remarks by at the Department of State Conference on
                     U.S.-Soviet Relations in the Era of Détente, Marshall Center in the East
                     Auditorium.</p>
+                
+                <!-- Start of Brightcove Player -->
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                    style="position: relative; display: block;">
+                    <div style="padding-top: 56.25%;">
+                        <video data-video-id="1789621561" data-account="1705665025"
+                            data-player="HJ8lQG1Eg" data-embed="default"
+                            data-application-id="data-application-id" class="video-js"
+                            controls="controls"
+                            style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
+                        <script
+                            src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
+                        />
+                    </div>
+                </div>
+                <!-- End of Brightcove Player -->
+                
                 <p><hi rend="strong">SECRETARY RICE:</hi> Thank you very much, Marc. Thank you for that wonderful
                     introduction. And thank you also for your leadership and hard work over these
                     years.</p>
