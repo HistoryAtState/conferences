@@ -4,6 +4,7 @@
         <name>conferences</name>
         <title>Conferences (data)</title>
         <url>http://history.state.gov/ns/data/conferences</url>
-        <version>0.9</version>
+        <!-- VERSION SET AUTOMATICALLY DO NOT CHANGE -->
+        <!-- <version>0.9.0</version> -->
     </app>
 </root>
