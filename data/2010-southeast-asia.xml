@@ -314,13 +314,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="620933159001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="620933159001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -452,13 +451,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="620935370001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="620935370001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -1025,13 +1023,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="620970034001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="620970034001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -1784,13 +1781,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635457473001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635457473001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -2800,13 +2796,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="726241127001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="726241127001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -3894,13 +3889,12 @@
                         <lb/> September 29, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635436536001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635436536001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -5069,13 +5063,12 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635457501001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635457501001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -5776,13 +5769,12 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="739508859001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="739508859001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -7045,13 +7037,12 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635436537001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635436537001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -8365,13 +8356,12 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635436543001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635436543001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -9724,13 +9714,12 @@
                         <lb/> September 30, 2010</p>
 
                     <!-- Start of Brightcove Player -->
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="position: relative; display: block;">
+                    <div style="position: relative; display: block;"
+                        xmlns="http://www.w3.org/1999/xhtml">
                         <div style="padding-top: 56.25%;">
-                            <video data-video-id="635450480001" data-account="1705665025"
-                                data-player="HJ8lQG1Eg" data-embed="default"
-                                data-application-id="data-application-id" class="video-js"
-                                controls="controls"
+                            <video class="video-js" controls="controls" data-account="1705665025"
+                                data-application-id="data-application-id" data-embed="default"
+                                data-player="HJ8lQG1Eg" data-video-id="635450480001"
                                 style="position: absolute; top: 0px; right: 0px; bottom: 0px; left: 0px; width: 100%; height: 100%;"/>
                             <script
                                 src="//players.brightcove.net/1705665025/HJ8lQG1Eg_default/index.min.js"
@@ -12166,9 +12155,10 @@
                         of State and the United States Government.</p>
                     <p>The general history of recognitions and relations between the United States
                         and <ref target="https://history.state.gov/countries/vietnam">Vietnam</ref>,
-                            <ref target="https://history.state.gov/countries/cambodia">Cambodia</ref>
-                        and <ref target="https://history.state.gov/countries/laos">Laos</ref> is
-                        found on the Office of the Historian’s Countries Recognition and Relations
+                            <ref target="https://history.state.gov/countries/cambodia"
+                            >Cambodia</ref> and <ref
+                            target="https://history.state.gov/countries/laos">Laos</ref> is found on
+                        the Office of the Historian’s Countries Recognition and Relations
                         database.</p>
                     <p>The Department of State also provides country-specific Background Notes for
                             <ref target="http://www.state.gov/r/pa/ei/bgn/4130.htm">Vietnam</ref>,
@@ -12262,14 +12252,14 @@
                     <head>Suggestions for Further Reading</head>
                     <p>One of the most comprehensive bibliographies on the war in Vietnam and
                         Southeast Asia is <ref
-                            target="http://www.clemson.edu/caah/history/facultypages/edmoise/bibliography.html"
-                            >Prof. Edwin E. Moise’s Vietnam War Bibliography</ref>. This list covers
-                        a wide range of topics—whether military, political, diplomatic, home front,
-                        fiction, and many others—that relates to the war and U.S. policy in
-                        Southeast Asia. The bibliography also contains links to other sources on the
-                        war (official history offices, archival centers, primary source documents,
-                        and secondary literature) and is generally a good starting point for
-                        researching and studying the Vietnam War.</p>
+                            target="https://edmoise.sites.clemson.edu/bibliography.html">Prof. Edwin
+                            E. Moise’s Vietnam War Bibliography</ref>. This list covers a wide range
+                        of topics—whether military, political, diplomatic, home front, fiction, and
+                        many others—that relates to the war and U.S. policy in Southeast Asia. The
+                        bibliography also contains links to other sources on the war (official
+                        history offices, archival centers, primary source documents, and secondary
+                        literature) and is generally a good starting point for researching and
+                        studying the Vietnam War.</p>
                 </div>
                 <div type="section" xml:id="multimedia">
                     <head>Multimedia Materials</head>
